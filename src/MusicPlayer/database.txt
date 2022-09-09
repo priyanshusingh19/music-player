@@ -1,0 +1,7 @@
+Saudebazi,5:56,love,C:\Users\Priyanshu Singh\Downloads\Aakrosh - Saude Bazi (Encore).wav,Aakrosh,song,Pritam
+Ranjhana Title Track,4:14,love,01-Title-Track.wav,Ranjhana,song,Jubin Nautiyal
+Bulleya,4:25,love,Bulleya_MyMp3Song_.wav,RAW,song,Arijit Singh
+Chitthi,3:50,sad,Chitthi-Jubin-Nautiyal_MyMp3Song_.wav,Individual,song,Jubin Nautiyal
+Sample Music,0:29,notDefined,file_example_WAV_5MG.wav,Individual,music,Unknown
+First Class,4:37,happy,First-Class_MyMp3Song_.wav,Kalank,song,Arijit Singh
+OM-Shabd,2:41,happy,OM-Shabd_MyMp3Song_.wav,The Accidental PM,song,Sadhu Tiwari
